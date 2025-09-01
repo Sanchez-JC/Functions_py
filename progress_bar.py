@@ -1,6 +1,6 @@
 import sys
 
-def progress_bar(iteration, total, longitud=50):
+def progress_bar(iteracion, total, longitud=50):
     """
     Display a progress bar in the console.
     
